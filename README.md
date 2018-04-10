@@ -1,2 +1,2 @@
-# plotter-bot
-A Discord bot for plotting graphs
+# PlotterBot
+### A Discord bot for plotting graphs
