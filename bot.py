@@ -7,8 +7,8 @@ import sympy as syp
 from discord.ext.commands import Bot
 
 
-bot = Bot(command_prefix="p$")
-TOKEN = os.environ.get("TOKEN")
+bot = Bot(command_prefix='p$')
+TOKEN = os.environ.get('TOKEN')
 
 if not path.exists('.log'): os.mkdir('.log')
 log_dir = path.abspath('.log')
