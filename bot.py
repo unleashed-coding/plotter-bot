@@ -3,6 +3,8 @@
 import os
 from os import path
 
+import matplotlib
+matplotlib.use('Agg')
 import sympy as syp
 from discord.ext.commands import Bot
 
